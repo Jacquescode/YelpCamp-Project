@@ -24,7 +24,7 @@
 <img src="Images/screencapture1.png">
 <img src="Images/screencapture2.png">
 
-## Technoligies Use
+## Technologies Use
 - Nodejs
 - Express.js
 - Ejs
