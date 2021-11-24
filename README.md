@@ -1,2 +1,1 @@
-# YelpCamp-Project
-The famous YelpCamp project in the Web Developer Bootcamp by Colt Steel on Udemy!
+<h1 align="center">Checkout Page Challenge</h1>
