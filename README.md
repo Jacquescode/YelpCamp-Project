@@ -12,8 +12,8 @@
   </h3>
 </div>
 
-<img src="Images/screencapture1">
-<img src="Images/screencapture2">
+<img src="Images/screencapture1.png">
+<img src="Images/screencapture2.png">
 
 - Website [Jonaspace.com](https://jonaspace.com/)
 - GitHub [JacquesCode](https://github.com/Jacquescode)
