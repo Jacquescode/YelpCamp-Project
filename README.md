@@ -15,7 +15,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
-- [Technoligie Use](#Technologie-Use)
+- [Technologie Use](#Technologies-Use)
 - [Principal NPM and API](#Principal-NPM-and-API)
 - [Contact](#contact)
 
@@ -24,7 +24,7 @@
 <img src="Images/screencapture1.png">
 <img src="Images/screencapture2.png">
 
-## Technoligie Use
+## Technoligies Use
 - Nodejs
 - Express.js
 - Ejs
