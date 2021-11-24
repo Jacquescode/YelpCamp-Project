@@ -11,10 +11,10 @@ const LocalStrategy = require('passport-local');
 const methodOverride = require('method-override');
 const mongoose = require('mongoose');
 const mongoSanitize = require('express-mongo-sanitize');
-const MongoDBStore = require('connect-mongo')(session);
 const path = require('path');
 const passport = require('passport');
 const session = require('express-session');
+const MongoDBStore = require('connect-mongo')(session);
 const User = require('./models/users');
 
 
