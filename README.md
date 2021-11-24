@@ -12,8 +12,30 @@
   </h3>
 </div>
 
+## Overview
+
 <img src="Images/screencapture1.png">
 <img src="Images/screencapture2.png">
+
+## Technoligie Use
+- Nodejs
+- Express.js
+- Ejs
+- MongoDB
+
+## Principal NPM and API
+- express
+- ejs
+- mongoose
+- map-Box
+- cloudinary
+- flash
+- joi
+- helmet
+- passport
+- multer
+
+## Contact
 
 - Website [Jonaspace.com](https://jonaspace.com/)
 - GitHub [JacquesCode](https://github.com/Jacquescode)
