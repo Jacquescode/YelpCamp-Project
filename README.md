@@ -27,7 +27,7 @@
 - express
 - ejs
 - mongoose
-- map-Box
+- mapbox
 - cloudinary
 - flash
 - joi
